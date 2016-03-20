@@ -1,8 +1,7 @@
   GNU nano 2.2.6                File: /tmp/crontab.8s1gcu/crontab                                      
-
-Connection to raspberrypi.local closed by remote host.
-Connection to raspberrypi.local closed.
-novalis2:~ justinknox$ to be defined through a single line
+#==========================================================================
+# this is the example file, pullit up by running crontab -e as the pi user
+#==========================================================================
 # indicating with different fields when the task will be run
 # and what command to run for the task
 #
