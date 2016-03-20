@@ -25,9 +25,9 @@ https://www.adafruit.com/product/386
 
 Ok so how this works: 
 
-<> Grab the reading from the themometer. 
-<> Update the reading once a minute through the crontab into a log file. 
-<> Split that reading into two log files, one for fahrenheight, and one for humidity. 
-<> Chop that value into characters to output to the LED screen
-<> Add our script to run on reboot. 
-<> Complain to landlord that the AC is too hot. This is Vegas, dude. 
+<li> Grab the reading from the themometer. 
+<li> Update the reading once a minute through the crontab into a log file. 
+<li> Split that reading into two log files, one for fahrenheight, and one for humidity. 
+<li> Chop that value into characters to output to the LED screen
+<li> Add our script to run on reboot. 
+<li> Complain to landlord that the AC is too hot. This is Vegas, dude. 
